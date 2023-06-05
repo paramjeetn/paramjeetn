@@ -1,0 +1,2 @@
+- 👋 Hi, I’m paramjeet Pradhan
+- 📫 reach me https://www.instagram.com/paramjeet.pradhan/
