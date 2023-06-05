@@ -1,2 +1,3 @@
 - 👋 Hi, I’m paramjeet Pradhan
+- 1st year student at Trident Academy of Technology Bhubaneswar
 - 📫 reach me https://www.instagram.com/paramjeet.pradhan/
