@@ -1,4 +1,4 @@
- 👋 Hi, I’m paramjeet Pradhan
+ 👋 Hi, I’m paramjeet Pradhan \
  Trident Academy Of Technology, BBSR
 
 <!---
