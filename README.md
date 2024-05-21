@@ -1,4 +1,5 @@
  👋 Hi, I’m paramjeet Pradhan
+ -> Trident Academy Of Technology, BBSR
 
 <!---
 paramjeetn/paramjeetn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
