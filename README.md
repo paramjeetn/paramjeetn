@@ -1,43 +1,32 @@
+<div align="center">
+
 # Paramjeet Pradhan
 
 **AI Systems & Backend Infrastructure Engineer**
 
-I build **production-grade AI and backend systems** — with a focus on distributed systems, LLM infrastructure, retrieval, and reliability.
+Building production AI systems with a focus on **distributed systems, LLM infrastructure, retrieval, and reliability.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://paramjeet.myself.engineer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/paramjeetpradhan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:paramjeetpradhan.work@gmail.com)
+[Portfolio](https://paramjeet.myself.engineer) · [LinkedIn](https://linkedin.com/in/paramjeetpradhan) · [Email](mailto:paramjeetpradhan.work@gmail.com)
 
----
-
-### What I Work On
-
-**AI Infrastructure**
-LLM orchestration · Agent systems · AI evaluation · Inference workflows
-
-**Backend & Distributed Systems**
-Async architectures · Concurrency · Queues · Rate limiting · Fault tolerance
-
-**Retrieval Systems**
-RAG · Hybrid search · Reranking · Embeddings · Vector databases
-
-**Production Engineering**
-Observability · OpenTelemetry · Performance · Reliability · Cloud infrastructure
-
-### Engineering Stack
-
-**Languages**
-Python · TypeScript
-
-**Backend**
-FastAPI · Node.js · PostgreSQL · Redis
-
-**AI / ML Infrastructure**
-LiteLLM · LangGraph · Google ADK · MCP · Qdrant · Weaviate
-
-**Infrastructure**
-Docker · Kubernetes · GCP · AWS · OpenTelemetry
+</div>
 
 ---
 
-> **Building systems that are fast, reliable, observable, and built to scale.**
+### Focus
+
+**AI Systems** · LLMs · Agents · AI Evaluation
+**Backend** · Distributed Systems · Async · Concurrency
+**Retrieval** · RAG · Hybrid Search · Reranking
+**Infrastructure** · Kubernetes · Cloud · Observability
+
+### Stack
+
+Python · TypeScript · FastAPI · PostgreSQL · Redis · Docker · Kubernetes · GCP · AWS · Qdrant · LangGraph · LiteLLM · MCP · OpenTelemetry
+
+---
+
+<div align="center">
+
+*Building reliable infrastructure for real-world AI systems.*
+
+</div>
