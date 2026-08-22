@@ -2,7 +2,7 @@
 
 **AI Systems & Backend Infrastructure Engineer**
 
-I build backend and distributed systems for production AI workloads, with a focus on **concurrency, reliability, observability, and retrieval infrastructure**.
+Building production AI systems with a focus on **distributed systems, LLM infrastructure, retrieval, and reliability**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://paramjeet.myself.engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/paramjeetpradhan)
@@ -10,30 +10,13 @@ I build backend and distributed systems for production AI workloads, with a focu
 
 ---
 
-### About
+### Focus
 
-I design and build backend and distributed systems that bring AI models into production.
+**Distributed Systems** · Async pipelines · Concurrency · Kubernetes · Rate limiting
+**AI Systems** · LLM orchestration · Multi-agent systems · AI evaluation
+**Retrieval** · RAG · Hybrid search · Reranking · Vector databases
+**Reliability** · Observability · OpenTelemetry · Fault-tolerant systems
 
-My work focuses on the engineering problems that emerge under real workloads: **rate-limit saturation, memory pressure, high concurrency, failure recovery, and deterministic fallbacks**.
+### Stack
 
-I prefer **engineering depth over wrappers** — building systems that are measurable, fault-tolerant, and reproducible rather than simply demonstrating model capabilities.
-
----
-
-
-### Core Stack
-
-**Languages**
-Python · TypeScript · JavaScript · SQL
-
-**Backend & Infrastructure**
-FastAPI · Node.js · Hono · Docker · Kubernetes · Pulumi
-GCP — GKE · Cloud Run · GCS · Firestore · KMS
-AWS — S3
-
-**AI & Data**
-LiteLLM · Google ADK · LangGraph · Vercel AI SDK · MCP
-Qdrant · Weaviate · PostgreSQL · Redis
-
-**Observability**
-OpenTelemetry · Axiom · Sentry
+**Python · TypeScript · FastAPI · Node.js · Docker · Kubernetes · GCP · AWS · PostgreSQL · Redis · Qdrant · Weaviate · LiteLLM · LangGraph · Google ADK · MCP · OpenTelemetry**
