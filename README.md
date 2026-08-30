@@ -30,3 +30,5 @@ Python · TypeScript · FastAPI · PostgreSQL · Redis · Docker · Kubernetes �
 *Building reliable infrastructure for real-world AI systems.*
 
 </div>
+
+<!-- verified sync -->
